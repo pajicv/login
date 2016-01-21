@@ -1,0 +1,12 @@
+{
+    "name": "login",
+	
+	"locale": "en",
+
+    "requires": [
+		"locale",
+		"Ext.Msg"
+    ],
+
+    "id": "77247e58-7d7b-4fa1-8366-ae3527facb6f"
+}
